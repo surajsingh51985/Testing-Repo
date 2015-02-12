@@ -1,4 +1,9 @@
 <?php
 
-echo "laravel";
+echo "This is testing file";
+
+
+phpinfo();
+echo "hello";
+echo "singh is king";
 ?>
