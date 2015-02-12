@@ -3,5 +3,5 @@
 phpinfo();
 echo "hello";
 echo "laravel";
-echo "welcome"
+echo "welcome";
 ?>
